@@ -1,6 +1,7 @@
 import * as alt from 'alt';
 import * as native from 'natives';
-import {DOORS} from "./data";
+import {DOORS} from "./data.js";
+
 
 const localPlayer = alt.Player.local
 

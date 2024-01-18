@@ -1,5 +1,4 @@
 import * as alt from "alt-server"
-import * as data from "./data.js"
 
 
 alt.on("playerConnect", (player) => {
