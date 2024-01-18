@@ -1,0 +1,16 @@
+
+// DOOR STATES:
+// 0: UNLOCKED
+// 1: LOCKED
+// 2: DOORSTATE_FORCE_LOCKED_UNTIL_OUT_OF_AREA
+// 3: DOORSTATE_FORCE_UNLOCKED_THIS_FRAME
+// 4: DOORSTATE_FORCE_LOCKED_THIS_FRAME
+// 5: DOORSTATE_FORCE_OPEN_THIS_FRAME
+// 6: DOORSTATE_FORCE_CLOSED_THIS_FRAME
+
+export const DOORS = [
+    {id: 1, pos: {x: 461.8065, y: -994.4086, z: 25.06443}, model: 631614199, state: 1},
+    {id: 2, pos: {x: 461.8065, y: -997.6583, z: 25.06443}, model: 631614199, state: 1},
+    {id: 3, pos: {x: 461.8065, y: -1001.302, z: 25.06443}, model: 631614199, state: 1}
+
+]
